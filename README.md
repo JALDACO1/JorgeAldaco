@@ -5,3 +5,13 @@
 </h1> 
 
 ### Un ingeniero de software en proceso apasionado por crear aplicaciones web funcionales y trabajar en equipo
+- 🌱 Actualmente estoy estudiando la carrera de Ingenieria de Software
+ <br> 
+
+<div align="center"> 
+  <a href="joraldgod@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a>  
+</div>
+
+ <hr>
