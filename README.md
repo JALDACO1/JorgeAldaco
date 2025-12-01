@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+✌🏽;+I'm+Jorge+Aldaco!;" /> 
 </h1> 
 
-I’m Jorge Aldaco, a Software Engineering student at the University of Colima, currently in my 5th semester. I’m passionate about building applications and solving problems through technology, with a special interest in web development, backend, and a bit of frontend.
+A Software Engineering student at the University of Colima, currently in my 5th semester. I’m passionate about building applications and solving problems through technology, with a special interest in web development, backend, and a bit of frontend.
 <br><br>
 -Hobbies<br>
     -🏋Sports<br>
